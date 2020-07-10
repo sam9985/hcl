@@ -1,0 +1,10 @@
+git init
+git commit -m "<commitname>"
+git remote add origin master 
+git push -u  origin master
+git remote -v
+git log
+git status 
+git config --global user.name "<username>"
+git config --global user.email "<git created email>"
+
